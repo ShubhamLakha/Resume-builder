@@ -9,8 +9,6 @@
 
 <div align="center">
 
-[![Travis badge](https://travis-ci.org/salomonelli/best-resume-ever.svg?branch=master)](https://travis-ci.org/salomonelli/best-resume-ever)
-
 </div>
 
 <h4 align="center">
@@ -71,28 +69,28 @@
 node -v
 ```
 
-2. If you do not have installed Node.js in your machine then go to [this link](https://nodejs.org/en/download/) in order to install node.
+2. If you do not have installed Node.js in your machine then go to [this link](https://nodejs.org/en/download/) to install Node.
 
 ## How to use
 
 1. Clone this repository.
 
 ```
-git clone https://github.com/salomonelli/best-resume-ever.git
+git clone [https://github.com/ShubhamLakha/Resume-builder.git]
 ```
 
-2. Go to the cloned directory (e.g. `cd best-resume-ever`).
+2. Go to the cloned directory (e.g. `cd Resume-Builder`).
 
 3. Run `npm install`. This may take a few seconds.
 
-4. Customize your resume in the `resume/` directory: edit your data `data.yml` and replace the default profile-picture `id.jpg` with your picture. Rename your picture as `id.jpg` and copy it in the `resume/` directory. During this step, you may find it easier to navigate with Finder or File Explorer to get to the files. This will allow you to edit files with your computers default text editor. 
+4. Customize your resume in the `resume/` directory: edit your data `data.yml` and replace the default profile-picture `id.jpg` with your picture. Rename your picture as `id.jpg` and copy it in the `resume/` directory. During this step, you may find it easier to navigate with Finder or File Explorer to get to the files. This will allow you to edit files with your computer's default text editor. 
 
 5. Preview resumes with `npm run dev`. The command will start a server instance and listen on port 8080.  Open (http://localhost:8080/home) in your browser. The page will show some resume previews. To see the preview of your resume, with your picture and data, click on one layout that you like and the resume will be opened in the same window.
 
 ![Resume previews](/readme-images/resumePreviews.png)
 
 
-6. Export your resume as pdf by running the command `npm run export`. In order to avoid errors due to the concurrency of two  `npm run` commands, stop the execution of the previus `npm run dev` and then type the export command.
+6. Export your resume as a pdf by running the command `npm run export`. To avoid errors due to the concurrency of two  `npm run` commands, stop the execution of the previous `npm run dev` and then type the export command.
 
 All resumes will be exported to the `pdf/` folder.
 
@@ -106,25 +104,11 @@ Please read the <a href="DEVELOPER.md">developer docs</a> on how to create or up
 
 ## Contribute
 
-Feel free to add your own templates, language supports, fix bugs or improve the docs. Any kind of help is appreciated! If you make any kind of changes to an existing template, please commit them as new templates.
+Feel free to add your templates, and language supports, fix bugs, or improve the docs. Any kind of help is appreciated! If you make any kind of changes to an existing template, please commit them as new templates.
 
 <br>
 
 
-## Sponsored by
-
-<p align="center">
-    <a href="https://rxdb.info/nodejs-database.html">
-        <img
-            src="https://rxdb.info/files/logo/logo_text.svg"
-            alt="Sponsored by RxDB - NodeJs Database"
-            width="300"
-         />
-         <br />
-         <br />
-         <span>The <b>NodeJs Database</b></span>
-    </a>
-</p>
 
 ## Credits
 
@@ -135,13 +119,3 @@ This project uses several open source packages:
 - <a href="https://github.com/less/less.js" target="_blank">LESS</a>
 
 <br>
-
----
-
-> [sarasteiert.com](https://www.sarasteiert.com) &nbsp;&middot;&nbsp;
-> GitHub [@salomonelli](https://github.com/salomonelli) &nbsp;&middot;&nbsp;
-> Twitter [@salomonelli](https://twitter.com/salomonelli)
-
-## License
-
-[MIT](https://github.com/salomonelli/best-resume-ever/blob/master/LICENCE.md)
