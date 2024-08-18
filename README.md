@@ -71,17 +71,17 @@
 node -v
 ```
 
-2. If you do not have installed Node.js in your machine then go to [this link](https://nodejs.org/en/download/) in order to install node.
+2. If you do not have installed Node.js in your machine then go to [this link](https://nodejs.org/en/download/) to install Node.
 
 ## How to use
 
 1. Clone this repository.
 
 ```
-git clone https://github.com/salomonelli/best-resume-ever.git
+git clone [https://github.com/ShubhamLakha/Resume-builder.git]
 ```
 
-2. Go to the cloned directory (e.g. `cd best-resume-ever`).
+2. Go to the cloned directory (e.g. `cd Resume-Builder`).
 
 3. Run `npm install`. This may take a few seconds.
 
@@ -111,20 +111,6 @@ Feel free to add your templates, and language supports, fix bugs, or improve the
 <br>
 
 
-## Sponsored by
-
-<p align="center">
-    <a href="https://rxdb.info/nodejs-database.html">
-        <img
-            src="https://rxdb.info/files/logo/logo_text.svg"
-            alt="Sponsored by RxDB - NodeJs Database"
-            width="300"
-         />
-         <br />
-         <br />
-         <span>The <b>NodeJs Database</b></span>
-    </a>
-</p>
 
 ## Credits
 
