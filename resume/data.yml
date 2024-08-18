@@ -65,7 +65,7 @@ knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 projects:
-- name: Provident-Resume
+- name: Resume-Builder
   platform: Vue
   timeperiod: February 2016
   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
@@ -82,7 +82,7 @@ hobbies:
   url: https://example.com
 
 contributions:
-- name: Provident-Resume
+- name: Resume-Builder
   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
   url: https://github.com/salomonelli/best-resume-ever
 
