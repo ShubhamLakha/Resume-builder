@@ -9,8 +9,6 @@
 
 <div align="center">
 
-[![Travis badge](https://travis-ci.org/salomonelli/best-resume-ever.svg?branch=master)](https://travis-ci.org/salomonelli/best-resume-ever)
-
 </div>
 
 <h4 align="center">
